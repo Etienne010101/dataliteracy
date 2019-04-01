@@ -2,7 +2,7 @@
 title: "De l'open data au big data"
 subtitle: "Culture générale des données"
 author: "Samuel Goëta et Joël Gombin"
-date: "Paris, 29 et 30 janvier 2018"
+date: "Avril 2019"
 output:
   xaringan::moon_reader:
     seal: false
@@ -24,7 +24,7 @@ background-position: 50% 50%
 <BR><BR><BR>
 ## Samuel Goëta et Joël Gombin (Datactivist)
 
-### Paris, 29 et 30 janvier 2018
+### Avril 2019
 
 ---
 class: center, middle
@@ -33,10 +33,10 @@ Ces slides en ligne : http://datactivist.coop/dataliteracy/
 
 Sources : https://github.com/datactivist/dataliteracy
 
-[Notes collaboratives](https://paper.dropbox.com/doc/Formation-Culture-Generale-des-Donnees-XjrveJ0tbnwsdhbOYLd8D?_tk=share_copylink)
 
 Les productions de Datactivist sont librement réutilisables selon les termes de la licence [Creative Commons 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr).
 
+<img src="./img/Logo_amue.png" height="150px" />
 <img src="./img/Logo_DATACTIVIST_TW.png" height="150px" />
 
 
